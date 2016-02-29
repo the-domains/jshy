@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[jshy]]></title>
         <description><![CDATA[jshy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jshy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 16:55:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 29 Feb 2016 04:24:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jshy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/jshy/498acbf1-63ce-4128-9c7a-26f6efc42be9/index.html</link>
+            <guid isPermaLink="false">498acbf1-63ce-4128-9c7a-26f6efc42be9</guid>
+            <pubDate>Mon, 29 Feb 2016 04:23:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What is True Esteem?]]></title>
-            <description><![CDATA[<h1>What is True Esteem?</h1>]]></description>
-            <link>undefinedwhat-is-true-esteem/index.html</link>
+            <description><![CDATA[<article><h1>What is True Esteem?</h1><p>We’re all striving for healthy self-esteem. Healthy self-esteem is the cornerstone of happiness, confidence, and serenity. However, those with too much self-esteem or those who have not built their self-esteem correctly may have a tendency to be self-centered and narcissistic.</p></article>]]></description>
+            <link>https://thegrid.ai/jshy/what-is-true-esteem/index.html</link>
             <guid isPermaLink="false">d432182f-a75f-4cac-8d66-3e3aecdd64de</guid>
             <pubDate>Sun, 28 Feb 2016 16:55:10 GMT</pubDate>
         </item>
